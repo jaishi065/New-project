@@ -1,1 +1,3 @@
-print("hello world")
+import random
+a = random.randint(1,12)
+print(a)
