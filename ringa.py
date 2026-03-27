@@ -1,1 +1,1 @@
-print("Boka choda")
+print("Ram bhagwan ki jaya")
